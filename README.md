@@ -1,6 +1,6 @@
 # Monte Carlo Stock Price Prediction
 
-This script uses the Monte Carlo method to simulate possible future stock prices based on historical stock data fetched from Yahoo Finance.
+This script uses the Monte Carlo method to simulate possible future stock prices based on historical stock data fetched from Yahoo Finance. Learn from this youtube channel: https://www.youtube.com/watch?v=6-dhdMDiYWQ
 
 ## Features:
 
